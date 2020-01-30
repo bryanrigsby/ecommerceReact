@@ -3,7 +3,6 @@ this was based on a tutorial by https://www.youtube.com/codingaddict.
 
 
 
-![Screen Shot 2020-01-28 at 10 50 06 AM](https://user-images.githubusercontent.com/12769416/73457635-9928b480-4339-11ea-927d-2dce80b2064e.png)
 ![Screen Shot 2020-01-30 at 8 19 38 AM](https://user-images.githubusercontent.com/12769416/73457636-9928b480-4339-11ea-8385-8b68dedf91fd.png)
 ![Screen Shot 2020-01-30 at 8 20 06 AM](https://user-images.githubusercontent.com/12769416/73457637-99c14b00-4339-11ea-852f-0b92c2784464.png)
 ![Screen Shot 2020-01-30 at 8 20 22 AM](https://user-images.githubusercontent.com/12769416/73457638-99c14b00-4339-11ea-863a-cccde2636000.png)
