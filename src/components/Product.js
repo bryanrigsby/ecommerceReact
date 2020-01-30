@@ -10,7 +10,7 @@ export default class Product extends Component {
 
         return (
             <ProductWrapper className="col-9 mx-auto col-md-6 col-lg-3 my-y">
-                <div className="card">
+                <div className="card mb-3">
 
                     <ProductConsumer>
                         {value => (
