@@ -19,8 +19,9 @@ export default class Product extends Component {
                                     <img src={img} alt="product" className="card-img-top"/>
                                 </Link>
                                                                 {/* returns true if inCart is true and false if inCart is false */}
-                                <button className="cart-btn" disabled={inCart ? true : false} onClick={() => {
+                                <button className="cart-btn" disabled={inCart ? true : false} onClick={() => {//these methods come from context.js inside the value of ProductContext.Provider.  they can be used because ProductConsumer is imported
                                     value.addToCart(id);
+                                    value.openModal(id);
                                 }}>   {/*returns 'In Cart' if inCart is true or cart icon if inCart is false*/} 
                                     {inCart ? (<p className="text-capitalize mb-0" disabled>{" "} in cart</p>) : (<i className="fas fa-cart-plus" />)}
                                 </button>
